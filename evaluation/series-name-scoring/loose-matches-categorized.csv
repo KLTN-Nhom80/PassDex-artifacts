@@ -1,214 +1,214 @@
-﻿method,image,answer_key,model_reading,rule,category
-gemini,P635/sa_lop_hoc_uu_tu-fair-khac_2.jpg,Sa Lop Hoc Uu Tu,S.A Ưu tú,shared words,A
-gemini,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,Cậu Bé 3 Mắt,shared words,A
-gemini,P405/dong_du_ky-good-khac_1.jpg,Dong Du Ky,Đông Du Kí,spelling,A
-gemini,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,DORAEMON,spelling,A
-gemini,P559/nguyen_uoc_yeu_thuong_kimi_ni_todok-good-bia_1.jpg,Nguyen Uoc Yeu Thuong Kimi Ni Todok,Kimi ni Todoke Nguyện ước yêu thương,shared words,A
-gemini,P360/tiger_and_wolf-good-khac_2.jpg,Tiger And Wolf,Tiger & Wolf,shared words,A
-gemini,P486/loi_noi_doi_thang_4-good-khac_1.jpg,Loi Noi Doi Thang 4,Lời nói dối tháng Tư,shared words,A
-gemini,P748/nhat_ky_bang_tranh_cua_nhoc_mikan-good-bia_1.jpg,Nhat Ky Bang Tranh Cua Nhoc Mikan,NHẬT KÍ BẰNG TRANH CỦA NHÓC MIKAN,shared words,A
-gemini,P725/chu_nhung_chuyen_ky_bi_cua_stine-fair-khac_2.jpg,Chu Nhung Chuyen Ky Bi Cua Stine,R.L. Stine,shared words,C
-gemini,P425/nhung_cuoc_phieu_luu_cua_asterix-fair-bia_1.jpg,Nhung Cuoc Phieu Luu Cua Asterix,Cuộc phiêu lưu của Astérix người Gaulois,shared words,A
-gemini,P407/spy_family-good-khac_2.jpg,Spy Family,SPY x FAMILY,shared words,A
-gemini,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,Chị Em Gái Candy,shared words,A
-gemini,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,HUNTER X HUNTER,shared words,A
-gemini,P301/chien_si_hinh_xep-fair-khac_2.jpg,Chien Si Hinh Xep,Chiến sĩ hành hiệp,spelling,D
-gemini,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A
-gemini,P430/yokai_watch_dong_ho_yeu_quai-good-bia_1.jpg,Yokai Watch Dong Ho Yeu Quai,Đồng Hồ Yêu Quái Yo-Kai Watch,shared words,A
-gemini,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử vệ thần nhà Momochi,shared words,A
-gemini,P1006/assassination_classs_room-good-mep_1.jpg,Assassination Classs Room,Assassination Classroom,spelling,A
-gemini,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A
-gemini,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A
-gemini,P993/khat_vong_vo_dich_genki-good-khac_1.jpg,Khat Vong Vo Dich Genki,GENKI KHÁT VỌNG VÔ ĐỊCH,shared words,A
-gemini,P889/doi_quan_doraemon_them-good-bia_1.jpg,Doi Quan Doraemon Them,Đội quân Doraemon Đặc biệt,contains,D
-gemini,P302/than_dong_dat_viet_my_thuat-good-khac_2.jpg,Than Dong Dat Viet My Thuat,Thần Đồng Mỹ Thuật,shared words,D
-gemini,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,Đến Quán Cùng Uống Trà,shared words,D
-gemini,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari cô bé tinh nghịch,shared words,A
-gemini,P994/truyen_thuyet_anh_hung_yoshitsure-good-mep_1.jpg,Truyen Thuyet Anh Hung Yoshitsure,Truyền Thuyết Anh Hùng Yoshitsune,spelling,A
-gemini,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,SÁU CHÀNG TRAI VÀ MỘT CÔ GÁI,shared words,A
-gemini,P376/hoa_hong_toc_ngan-good-bia_1.jpg,Hoa Hong Toc Ngan,Đóa Hồng Tóc Ngắn,spelling,D
-gemini,P685/tranh_thien_than_diet_the-good-khac_1.jpg,Tranh Thien Than Diet The,Seraph of the end - Thiên thần diệt thế,contains,A
-gemini,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokémon Đặc Biệt,contains,D
-gemini,P054/doraemon-poor-gay_1.jpg,Doraemon,Đôrêmon,spelling,A
-gemini,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A
-gemini,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,Hunter Thợ Săn,shared words,A
-gemini,P222/3_3_eyes_co_be_ba_mat-good-bia_1.jpg,3 3 Eyes Co Be Ba Mat,3x3 EYES CÔ BÉ BA MẮT,shared words,A
-gemini,P683/hoi_ky_vanitas-good-bia_1.jpg,Hoi Ky Vanitas,Hồi Kí Vanitas,spelling,A
-gemini,P713/luat_su_quy_defense_devil-fair-khac_1.jpg,Luat Su Quy Defense Devil,DEFENSE DEVIL LUẬT SƯ QUỶ,shared words,A
-gemini,P632/beyblade_bo_dac_biet-fair-khac_1.jpg,Beyblade Bo Dac Biet,BEYBLADE CON QUAY TRUYỀN THUYẾT,contains,D
-gemini,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái ba,contains,A
-gemini,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhật ký MIDORI,spelling,A
-gemini,P236/pokemon_bay_thu_ky_dieu-fair-khac_1.jpg,Pokemon Bay Thu Ky Dieu,WOW BẦY THÚ KỲ DIỆU,shared words,A
-qwen25,P914/yaiba-fair-khac_1.jpg,Yaiba,YABA,spelling,B
-qwen25,P531/nhoc_bakeru-fair-bia_1.jpg,Nhoc Bakeru,The Baker,contains,C
-qwen25,P2044/basara_17_30_tap-good-bia_1.jpg,Basara,Bashara,spelling,B
-qwen25,P885/yaiba-good-khac_1.jpg,Yaiba,YIBA,spelling,B
-qwen25,P668/let_dai-fair-khac_2.jpg,Let Dai,Liet Dai,spelling,D
-qwen25,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,TRUYỆN TRANH CHU THỂ,contains,C
-qwen25,P695/sieu_dau_bep_ti_hon-good-khac_2.jpg,Sieu Dau Bep Ti Hon,Sieu Bu Bu Bep Ti Hon,shared words,B
-qwen25,P2910/chu_thuat_hoi_chien_jujutsu_kaisen_gege_-collectible-bia_1.jpg,Chú thuật hồi chiến,Chú Thuat Hai Chien,spelling,B
-qwen25,P385/cun_con_momo-fair-khac_2.jpg,Cun Con Momo,Chin con MOMO,spelling,B
-qwen25,P2055/dung_si_hesman_tap_114_nguoi_khach_bi_hi-good-bia_1.jpg,Dung Si Hesman,Dũng sĩ Heman,spelling,B
-qwen25,P860/bon_chang_hao_hoa-fair-khac_2.jpg,Bon Chang Hao Hoa,Bán Chàng Hảo Hoa,spelling,B
-qwen25,P541/anh_trang_bi_an-fair-khac_2.jpg,Anh Trang Bi An,Anh Trang Biên,spelling,B
-qwen25,P864/tham_tu_kindaichi-fair-bia_1.jpg,Tham Tu Kindaichi,Thám tử KIRAICHI,spelling,B
-qwen25,P419/boruto_naruto_hau_sinh_kha_uy-good-bia_1.jpg,Boruto Naruto Hau Sinh Kha Uy,BORUTO - NARUTO HẬU SINH KHÁ KHỨ,shared words,B
-qwen25,P1013/co_gai_de_thuong-good-khac_1.jpg,Co Gai De Thuong,Cá Gái Bé Thương,spelling,B
-qwen25,P2047/romantica_clock_tap_2-good-bia_1.jpg,Romantica Clock,Romantic Clock,spelling,B
-qwen25,P593/vo_dich_vo_dai-fair-khac_2.jpg,Vo Dich Vo Dai,Võ Địch Võ Hoài,spelling,B
-qwen25,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hậu gái Kongs Kobayashi,spelling,B
-qwen25,P813/doremon-fair-khac_2.jpg,Doremon,Doraemon,spelling,A
-qwen25,P506/than_thoai_trung_hoa-good-bia_1.jpg,Than Thoai Trung Hoa,TRẦN THOẠI TRUNG HOA,spelling,B
-qwen25,P676/altair_canh_dai_bang_kieu_hanh-good-bia_1.jpg,Altair Canh Dai Bang Kieu Hanh,ALTAR CÁNH ĐẠI BẢNG KIÊU HÀNH,shared words,B
-qwen25,P222/3_3_eyes_co_be_ba_mat-good-bia_1.jpg,3 3 Eyes Co Be Ba Mat,3x3 Eyes - Cô Bé Ba Mắt,shared words,A
-qwen25,P820/o_long_vien_sieu_buon_cuoi-fair-khac_2.jpg,O Long Vien Sieu Buon Cuoi,Ô LONG VIỆT SIÊU BUỒN CƯỜI,shared words,B
-qwen25,P761/tieu_thu_nhu_dao-fair-bia_1.jpg,Tieu Thu Nhu Dao,Tiểu Thú Như Ý,shared words,D
-qwen25,P727/phien_van_phuc_vu-fair-bia_1.jpg,Phien Van Phuc Vu,Phấn Vấn Phúc Vũ,spelling,B
-qwen25,P461/chu_meo_poko-good-bia_1.jpg,Chu Meo Poko,Chú Mèo Paka,spelling,B
-qwen25,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cậu mà nhà xi PAKAKO,shared words,B
-qwen25,P597/ninja_hactory-fair-bia_1.jpg,Ninja Hactory,NINJA FACTORY,spelling,B
-qwen25,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu Hiệp Long Thần,spelling,B
-qwen25,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,Chính Sát Siêu Quậy,spelling,B
-qwen25,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,Merumo và Những Viên Kẹo Thần Kỳ,shared words,A
-qwen25,P1700/ngoi_sao_kabi-good-bia_1.jpg,Ngoi Sao Kabi,NGÔI SAO LABI,spelling,B
-qwen25,P829/hanh_trinh_u_linh_gioi-collectible-bia_1.jpg,Hanh Trinh U Linh Gioi,Hành Trình Linh Giác,spelling,B
-qwen25,P703/kiem_hiep_huyet_anh_vu_co_long-good-bia_1.jpg,Kiem Hiep Huyet Anh Vu Co Long,Cổ Long Huyết Anh Vũ,shared words,A
-qwen25,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhật ký Midori,spelling,A
-qwen25,P259/thien_than_tren_duong_dua-fair-khac_1.jpg,Thien Than Tren Duong Dua,Thiên Thanh Trẻ Đuông Dưa,spelling,B
-qwen25,P415/canh_cut_rac_roi_ky-good-khac_2.jpg,Canh Cut Rac Roi Ky,Chính Cut Rạc Rối Kỳ,shared words,B
-qwen25,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen25,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen25,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A
-qwen25,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,Hunter x Hunter,shared words,A
-qwen25,P521/nguoi_ke_vi_bi_an-fair-khac_2.jpg,Nguoi Ke Vi Bi An,NGƯỜI KẾ VỊ GIẢN,spelling,B
-qwen25,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Tùng đất xa xăm,spelling,B
-qwen25,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHÚ THOÀNG,spelling,B
-qwen25,P2846/co_dau_thao_nguyen_mori_kaoru_tap_7_14_b-good-bia_1.jpg,Co Dau Thao Nguyen,Cô đẩu hào nguyệt,spelling,B
-qwen25,P1115/alice_in_borderlands_1_4_co_phu_kien-good-mep_1.jpg,Alice In Borderland,Alice in Wonderland,spelling,C
-qwen25,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A
-qwen25,P1014/anh_hung_vo_le-good-bia_1.jpg,Anh Hung Vo Le,Anh Hùng Võ Lâm,spelling,D
-qwen25,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua valo,spelling,B
-qwen25,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A
-qwen25,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari có bé tình nghiệt,shared words,B
-qwen25,P889/doi_quan_doraemon_them-good-bia_1.jpg,Doi Quan Doraemon Them,Đội Quán Doraemon Đặc Biệt,contains,D
-qwen25,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A
-qwen25,P366/gasshu_cau_be_bi_an-fair-khac_2.jpg,Gasshu Cau Be Bi An,GẤSUU Cậu bé bí ẩn,shared words,B
-qwen25,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái ba,contains,A
-qwen25,P879/doremon_mau-fair-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen25,P825/cuoc_phieu_luu_cua_croket-good-bia_1.jpg,Cuoc Phieu Luu Cua Croket,Cuộc phiêu lưu của Crocket,spelling,B
-qwen25,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A
-qwen25,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A
-qwen25,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A
-qwen25,P1002/spirou_va_fantasio-good-khac_1.jpg,Spirou Va Fantasio,SPIROU & FANTASIO!,shared words,A
-qwen35_745,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cái ma nhà xí HAKAKO,spelling,B
-qwen35_745,P159/cau_lac_bo_nhung_ke_mat_ngu-good-mep_1.jpg,Cau Lac Bo Nhung Ke Mat Ngu,Cô lạc bỏ những kẻ mất ngủ,shared words,B
-qwen35_745,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A
-qwen35_745,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A
-qwen35_745,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái bà,contains,B
-qwen35_745,P288/tham_tu_kindaichi-fair-khac_1.jpg,Tham Tu Kindaichi,Thám Tử Kidaichi,spelling,B
-qwen35_745,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokemon Đặc Biệt,contains,D
-qwen35_745,P331/bac_si_ma_gioi-fair-bia_1.jpg,Bac Si Ma Gioi,Bác Sĩ Ma Girl,spelling,B
-qwen35_745,P357/hoc_sinh_chan_kinh-good-bia_1.jpg,Hoc Sinh Chan Kinh,Học Sinh Chân Tình,spelling,B
-qwen35_745,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Từng đất xa xăm,spelling,B
-qwen35_745,P378/theo_dau_rong_than-fair-bia_1.jpg,Theo Dau Rong Than,THEO DẤU DRAGON BALL RỒNG THẦN,shared words,A
-qwen35_745,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,CHÚ THƯỜNG,spelling,B
-qwen35_745,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A
-qwen35_745,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử về thăm nhà Momochi,shared words,B
-qwen35_745,P416/hoa_su_ma_meo-good-khac_1.jpg,Hoa Su Ma Meo,Hè Su Mả Mèo,spelling,B
-qwen35_745,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A
-qwen35_745,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,MERUMO VÀ NHỮNG VIÊN KẸO THẦN KỲ,shared words,A
-qwen35_745,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,HUNTER X HUNTER,shared words,A
-qwen35_745,P493/hiep_khach_hanh-fair-khac_1.jpg,Hiep Khach Hanh,HIỆP KHÁCH HƯNG,spelling,B
-qwen35_745,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,HUNTER THỢ SĂN,shared words,A
-qwen35_745,P501/tiem_thu_kieng-good-khac_1.jpg,Tiem Thu Kieng,Tiện Thủ Kiểng,spelling,B
-qwen35_745,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu: Miên Long Thân,spelling,B
-qwen35_745,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHÚ THƯỜNG,spelling,B
-qwen35_745,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhat is Midori!,spelling,B
-qwen35_745,P572/hanh_trinh_cua_uduchi-fair-khac_2.jpg,Hanh Trinh Cua Uduchi,Hành Trình Của Udedchi,spelling,B
-qwen35_745,P596/nhung_hanh_tinh_la-fair-khac_2.jpg,Nhung Hanh Tinh La,NHỮNG HÀNH TRÌNH LÁ,spelling,B
-qwen35_745,P599/psyren-good-khac_1.jpg,Psyren,PSY-PEN,spelling,B
-qwen35_745,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua KaLo,spelling,B
-qwen35_745,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,CÁU BÉ 3 MẮT,shared words,A
-qwen35_745,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A
-qwen35_745,P628/akuno_cua_toi-good-khac_1.jpg,Akuno Cua Toi,Akuno ga Tōi,shared words,B
-qwen35_745,P629/artist_acro-good-khac_2.jpg,Artist Acro,Artist Airo,spelling,B
-qwen35_745,P641/tan_tu_dien_ki_bi-good-khac_1.jpg,Tan Tu Dien Ki Bi,Tân Tử Đỉnh Kì Bí,shared words,B
-qwen35_745,P646/dong_song_huyen_bi-good-khac_1.jpg,Dong Song Huyen Bi,Đông Song Huyên Hi,spelling,B
-qwen35_745,P680/hac_quan_gia-good-khac_1.jpg,Hac Quan Gia,Thế Quân Gia,contains,C
-qwen35_745,P727/phien_van_phuc_vu-fair-bia_1.jpg,Phien Van Phuc Vu,PHIÊN VÂN PHÚC VỊ,spelling,B
-qwen35_745,P770/tu_dai_danh_bo-fair-bia_1.jpg,Tu Dai Danh Bo,TÚ ĐẠI DANG BÒ,spelling,B
-qwen35_745,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,ĐEN CÙNG UỐNG TRÀ,shared words,B
-qwen35_745,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A
-qwen35_745,P785/dai_chien_titan-good-khac_1.jpg,Dai Chien Titan,ĐÁCH CHIẾN TITAN,spelling,B
-qwen35_745,P819/du_an_keo_vang-good-khac_1.jpg,Du An Keo Vang,Đừng Ăn Kẹo Vàng,spelling,B
-qwen35_745,P879/doremon_mau-fair-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_745,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A
-qwen35_745,P910/doremon_plus-fair-khac_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_745,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_745,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_745,P970/wow_bay_thu_ky_dieu_pokemon-good-bia_1.jpg,Wow Bay Thu Ky Dieu Pokemon,Wow! Thú kỳ diệu,shared words,A
-qwen35_745,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hầu gái Kōng Kobayashi,spelling,B
-qwen35_745,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,Cảnh sát Siêu Quyền,spelling,B
-qwen35_745,P1009/loi_noi_doi_thang_tu-good-bia_1.jpg,Loi Noi Doi Thang Tu,Lời nói dối tháng 6,shared words,B
-qwen35_745,P1894/dung_si_hesman-good-mep_1.jpg,Dung Si Hesman,Đừng Sợ Hesman,spelling,B
-qwen35_772,P084/thanh_guom_diet_quy-pristine-bia_1.jpg,Thanh Gươm Diệt Quỷ,THÁNH GIỚI DIỆT QUỲ,spelling,B
-qwen35_772,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cái ma nhà xí HAKAKO,spelling,B
-qwen35_772,P159/cau_lac_bo_nhung_ke_mat_ngu-good-mep_1.jpg,Cau Lac Bo Nhung Ke Mat Ngu,Cô lạc bỏ những kẻ mất ngủ,shared words,B
-qwen35_772,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A
-qwen35_772,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái bà,contains,B
-qwen35_772,P288/tham_tu_kindaichi-fair-khac_1.jpg,Tham Tu Kindaichi,Thám Tử Kidaichi,spelling,B
-qwen35_772,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokemon Đặc Biệt,contains,D
-qwen35_772,P331/bac_si_ma_gioi-fair-bia_1.jpg,Bac Si Ma Gioi,Bác Sĩ Ma Girl,spelling,B
-qwen35_772,P357/hoc_sinh_chan_kinh-good-bia_1.jpg,Hoc Sinh Chan Kinh,Học Sinh Chân Tình,spelling,B
-qwen35_772,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Từng đất xa xăm,spelling,B
-qwen35_772,P378/theo_dau_rong_than-fair-bia_1.jpg,Theo Dau Rong Than,THEO DẤU DRAGON BALL RỒNG THẦN HIỆP ƯỚC ĐỊNH CHIẾN,shared words,A
-qwen35_772,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,CHỦ THƯỜNG,spelling,B
-qwen35_772,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A
-qwen35_772,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử về thăm nhà Momochi,shared words,B
-qwen35_772,P422/nhat_quy_nhi_ma_thu_ba_takagi-good-khac_1.jpg,Nhat Quy Nhi Ma Thu Ba Takagi,"Nhật ký ma, thư ba Takagi",shared words,B
-qwen35_772,P429/chu_gia_nuoi_meo_u-good-bia_1.jpg,Chu Gia Nuoi Meo U,CHỦ GIA NUÔI MEOW,spelling,B
-qwen35_772,P439/bong_cuc_dieu_ki-good-khac_2.jpg,Bong Cuc Dieu Ki,Bông Cúc Diệu Kỳ,spelling,A
-qwen35_772,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A
-qwen35_772,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,MERUMO VÀ NHỮNG VIÊN KẸO THẦN KỲ,shared words,A
-qwen35_772,P460/atom_cau_be_tay_sat-good-khac_1.jpg,Atom Cau Be Tay Sat,ASTRO BOY CÂU BÉ TAY SẮT,shared words,A
-qwen35_772,P461/chu_meo_poko-good-bia_1.jpg,Chu Meo Poko,Chú Mèo Peko,spelling,B
-qwen35_772,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,Hunter x Hunter,shared words,A
-qwen35_772,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,Hunter Thợ Săn,shared words,A
-qwen35_772,P501/tiem_thu_kieng-good-khac_1.jpg,Tiem Thu Kieng,Tiện Thủ Kiềng,spelling,B
-qwen35_772,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu Meilong Than,spelling,B
-qwen35_772,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHỦ THƯỜNG,spelling,B
-qwen35_772,P534/vien_dan_tinh_yeu-good-khac_1.jpg,Vien Dan Tinh Yeu,VIỄN ĐẠM TÌNH YÊU,spelling,B
-qwen35_772,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhất là Midori!,spelling,B
-qwen35_772,P572/hanh_trinh_cua_uduchi-fair-khac_2.jpg,Hanh Trinh Cua Uduchi,Hành Trình Của Udedi,spelling,B
-qwen35_772,P596/nhung_hanh_tinh_la-fair-khac_2.jpg,Nhung Hanh Tinh La,NHỮNG HÀNH TRÌNH LÁ,spelling,B
-qwen35_772,P599/psyren-good-khac_1.jpg,Psyren,PSY-PEN,spelling,B
-qwen35_772,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua KaLo,spelling,B
-qwen35_772,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,CAU BE 3 MAT,shared words,A
-qwen35_772,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A
-qwen35_772,P629/artist_acro-good-khac_2.jpg,Artist Acro,Artist Airo,spelling,B
-qwen35_772,P641/tan_tu_dien_ki_bi-good-khac_1.jpg,Tan Tu Dien Ki Bi,Tân Tử Đỉnh Kì Bí,shared words,B
-qwen35_772,P646/dong_song_huyen_bi-good-khac_1.jpg,Dong Song Huyen Bi,Đông Song Huyên Hi,spelling,B
-qwen35_772,P664/nghin_le_mot_dem-fair-khac_1.jpg,Nghin Le Mot Dem,ngàn lẻ một đêm,spelling,A
-qwen35_772,P680/hac_quan_gia-good-khac_1.jpg,Hac Quan Gia,Thế Quân Gia,contains,C
-qwen35_772,P744/than_dong_dat_viet_tap_1_100-fair-khac_1.jpg,Than Dong Dat Viet,THÂN ĐÔNG BẤT VIỆT,spelling,B
-qwen35_772,P754/vuong_tu_takeru-fair-khac_1.jpg,Vuong Tu Takeru,Vương Tử Tài Kêu,spelling,B
-qwen35_772,P755/hikaru_ki_thu_co_vay-fair-bia_1.jpg,Hikaru Ki Thu Co Vay,HIKARU KÌ THU ĐÔNG VÂY,shared words,B
-qwen35_772,P770/tu_dai_danh_bo-fair-bia_1.jpg,Tu Dai Danh Bo,TU ĐẠI DẠNG BỒ,spelling,B
-qwen35_772,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,ĐEN CÙNG UỐNG TRÀ,shared words,B
-qwen35_772,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A
-qwen35_772,P785/dai_chien_titan-good-khac_1.jpg,Dai Chien Titan,ĐÁCH CHIẾN TITAN,spelling,B
-qwen35_772,P806/ngon_lua_recca-fair-khac_2.jpg,Ngon Lua Recca,Ngọn Lửa Redca,spelling,B
-qwen35_772,P819/du_an_keo_vang-good-khac_1.jpg,Du An Keo Vang,Đừng Ăn Kẹo Vàng,spelling,B
-qwen35_772,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,CHI EM GÁI CANDY,shared words,A
-qwen35_772,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari cô bé tình nghi,shared words,B
-qwen35_772,P879/doremon_mau-fair-bia_1.jpg,Doremon,doraemon,spelling,A
-qwen35_772,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A
-qwen35_772,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_772,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A
-qwen35_772,P970/wow_bay_thu_ky_dieu_pokemon-good-bia_1.jpg,Wow Bay Thu Ky Dieu Pokemon,Wow! Thú kỳ diệu,shared words,A
-qwen35_772,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hầu gái Kōng Kobayashi,spelling,B
-qwen35_772,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,CÔNG SÁT SIÊU QUÝ,spelling,B
-qwen35_772,P1009/loi_noi_doi_thang_tu-good-bia_1.jpg,Loi Noi Doi Thang Tu,Lời nói dối tháng Chín,shared words,B
-qwen35_772,P1013/co_gai_de_thuong-good-khac_1.jpg,Co Gai De Thuong,Cô Gái Mỹ Thương,spelling,B
-qwen35_772,P1430/tam_quoc_dien_nghia-good-gay_1.jpg,Tam Quoc Dien Nghia,ĐIỆN NGHĨA TAM QUỐC,shared words,B
-qwen35_772,P1894/dung_si_hesman-good-mep_1.jpg,Dung Si Hesman,Đừng Sợ Hesman,spelling,B
+method,image,answer_key,model_reading,rule,category_rater_1,category_rater_2,note_rater_2
+gemini,P635/sa_lop_hoc_uu_tu-fair-khac_2.jpg,Sa Lop Hoc Uu Tu,S.A Ưu tú,shared words,A,D,không thấy rõ tên
+gemini,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,Cậu Bé 3 Mắt,shared words,A,A,
+gemini,P405/dong_du_ky-good-khac_1.jpg,Dong Du Ky,Đông Du Kí,spelling,A,A,
+gemini,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,DORAEMON,spelling,A,A,
+gemini,P559/nguyen_uoc_yeu_thuong_kimi_ni_todok-good-bia_1.jpg,Nguyen Uoc Yeu Thuong Kimi Ni Todok,Kimi ni Todoke Nguyện ước yêu thương,shared words,A,A,
+gemini,P360/tiger_and_wolf-good-khac_2.jpg,Tiger And Wolf,Tiger & Wolf,shared words,A,A,
+gemini,P486/loi_noi_doi_thang_4-good-khac_1.jpg,Loi Noi Doi Thang 4,Lời nói dối tháng Tư,shared words,A,A,
+gemini,P748/nhat_ky_bang_tranh_cua_nhoc_mikan-good-bia_1.jpg,Nhat Ky Bang Tranh Cua Nhoc Mikan,NHẬT KÍ BẰNG TRANH CỦA NHÓC MIKAN,shared words,A,A,
+gemini,P725/chu_nhung_chuyen_ky_bi_cua_stine-fair-khac_2.jpg,Chu Nhung Chuyen Ky Bi Cua Stine,R.L. Stine,shared words,C,D,có nhiều bộ sách trong ảnh
+gemini,P425/nhung_cuoc_phieu_luu_cua_asterix-fair-bia_1.jpg,Nhung Cuoc Phieu Luu Cua Asterix,Cuộc phiêu lưu của Astérix người Gaulois,shared words,A,A,
+gemini,P407/spy_family-good-khac_2.jpg,Spy Family,SPY x FAMILY,shared words,A,A,
+gemini,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,Chị Em Gái Candy,shared words,A,A,
+gemini,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,HUNTER X HUNTER,shared words,A,A,
+gemini,P301/chien_si_hinh_xep-fair-khac_2.jpg,Chien Si Hinh Xep,Chiến sĩ hành hiệp,spelling,D,C,
+gemini,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A,A,
+gemini,P430/yokai_watch_dong_ho_yeu_quai-good-bia_1.jpg,Yokai Watch Dong Ho Yeu Quai,Đồng Hồ Yêu Quái Yo-Kai Watch,shared words,A,A,
+gemini,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử vệ thần nhà Momochi,shared words,A,A,
+gemini,P1006/assassination_classs_room-good-mep_1.jpg,Assassination Classs Room,Assassination Classroom,spelling,A,A,
+gemini,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A,A,
+gemini,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A,A,
+gemini,P993/khat_vong_vo_dich_genki-good-khac_1.jpg,Khat Vong Vo Dich Genki,GENKI KHÁT VỌNG VÔ ĐỊCH,shared words,A,A,
+gemini,P889/doi_quan_doraemon_them-good-bia_1.jpg,Doi Quan Doraemon Them,Đội quân Doraemon Đặc biệt,contains,D,A,
+gemini,P302/than_dong_dat_viet_my_thuat-good-khac_2.jpg,Than Dong Dat Viet My Thuat,Thần Đồng Mỹ Thuật,shared words,D,C,Thần đồng đất việt
+gemini,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,Đến Quán Cùng Uống Trà,shared words,D,C,
+gemini,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari cô bé tinh nghịch,shared words,A,A,
+gemini,P994/truyen_thuyet_anh_hung_yoshitsure-good-mep_1.jpg,Truyen Thuyet Anh Hung Yoshitsure,Truyền Thuyết Anh Hùng Yoshitsune,spelling,A,A,
+gemini,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,SÁU CHÀNG TRAI VÀ MỘT CÔ GÁI,shared words,A,A,
+gemini,P376/hoa_hong_toc_ngan-good-bia_1.jpg,Hoa Hong Toc Ngan,Đóa Hồng Tóc Ngắn,spelling,D,B,Hoa hồng tóc ngắn
+gemini,P685/tranh_thien_than_diet_the-good-khac_1.jpg,Tranh Thien Than Diet The,Seraph of the end - Thiên thần diệt thế,contains,A,A,
+gemini,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokémon Đặc Biệt,contains,D,A,
+gemini,P054/doraemon-poor-gay_1.jpg,Doraemon,Đôrêmon,spelling,A,A,
+gemini,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A,A,
+gemini,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,Hunter Thợ Săn,shared words,A,A,
+gemini,P222/3_3_eyes_co_be_ba_mat-good-bia_1.jpg,3 3 Eyes Co Be Ba Mat,3x3 EYES CÔ BÉ BA MẮT,shared words,A,A,
+gemini,P683/hoi_ky_vanitas-good-bia_1.jpg,Hoi Ky Vanitas,Hồi Kí Vanitas,spelling,A,A,
+gemini,P713/luat_su_quy_defense_devil-fair-khac_1.jpg,Luat Su Quy Defense Devil,DEFENSE DEVIL LUẬT SƯ QUỶ,shared words,A,A,
+gemini,P632/beyblade_bo_dac_biet-fair-khac_1.jpg,Beyblade Bo Dac Biet,BEYBLADE CON QUAY TRUYỀN THUYẾT,contains,D,A,
+gemini,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái ba,contains,A,B,đọc thiếu
+gemini,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhật ký MIDORI,spelling,A,A,
+gemini,P236/pokemon_bay_thu_ky_dieu-fair-khac_1.jpg,Pokemon Bay Thu Ky Dieu,WOW BẦY THÚ KỲ DIỆU,shared words,A,A,
+qwen25,P914/yaiba-fair-khac_1.jpg,Yaiba,YABA,spelling,B,B,yaiba
+qwen25,P531/nhoc_bakeru-fair-bia_1.jpg,Nhoc Bakeru,The Baker,contains,C,C,Nhóc bakeru
+qwen25,P2044/basara_17_30_tap-good-bia_1.jpg,Basara,Bashara,spelling,B,B,basara
+qwen25,P885/yaiba-good-khac_1.jpg,Yaiba,YIBA,spelling,B,B,yaiba
+qwen25,P668/let_dai-fair-khac_2.jpg,Let Dai,Liet Dai,spelling,D,B,Let Dai
+qwen25,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,TRUYỆN TRANH CHU THỂ,contains,C,C,chú thòong
+qwen25,P695/sieu_dau_bep_ti_hon-good-khac_2.jpg,Sieu Dau Bep Ti Hon,Sieu Bu Bu Bep Ti Hon,shared words,B,C,siêu đầu bếp tí hon
+qwen25,P2910/chu_thuat_hoi_chien_jujutsu_kaisen_gege_-collectible-bia_1.jpg,Chú thuật hồi chiến,Chú Thuat Hai Chien,spelling,B,C,
+qwen25,P385/cun_con_momo-fair-khac_2.jpg,Cun Con Momo,Chin con MOMO,spelling,B,C,cún con momo
+qwen25,P2055/dung_si_hesman_tap_114_nguoi_khach_bi_hi-good-bia_1.jpg,Dung Si Hesman,Dũng sĩ Heman,spelling,B,B,dũng sĩ hesman
+qwen25,P860/bon_chang_hao_hoa-fair-khac_2.jpg,Bon Chang Hao Hoa,Bán Chàng Hảo Hoa,spelling,B,C,Bốn chàng hào hoa
+qwen25,P541/anh_trang_bi_an-fair-khac_2.jpg,Anh Trang Bi An,Anh Trang Biên,spelling,B,C,ánh trăng bí ẩn
+qwen25,P864/tham_tu_kindaichi-fair-bia_1.jpg,Tham Tu Kindaichi,Thám tử KIRAICHI,spelling,B,B,thám tử kindaichi
+qwen25,P419/boruto_naruto_hau_sinh_kha_uy-good-bia_1.jpg,Boruto Naruto Hau Sinh Kha Uy,BORUTO - NARUTO HẬU SINH KHÁ KHỨ,shared words,B,A,
+qwen25,P1013/co_gai_de_thuong-good-khac_1.jpg,Co Gai De Thuong,Cá Gái Bé Thương,spelling,B,C,cô gái dể thương
+qwen25,P2047/romantica_clock_tap_2-good-bia_1.jpg,Romantica Clock,Romantic Clock,spelling,B,B,Romantica Clock
+qwen25,P593/vo_dich_vo_dai-fair-khac_2.jpg,Vo Dich Vo Dai,Võ Địch Võ Hoài,spelling,B,C,vô dịch võ đài
+qwen25,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hậu gái Kongs Kobayashi,spelling,B,B,hầu gái rồng kobayashi
+qwen25,P813/doremon-fair-khac_2.jpg,Doremon,Doraemon,spelling,A,A,
+qwen25,P506/than_thoai_trung_hoa-good-bia_1.jpg,Than Thoai Trung Hoa,TRẦN THOẠI TRUNG HOA,spelling,B,A,
+qwen25,P676/altair_canh_dai_bang_kieu_hanh-good-bia_1.jpg,Altair Canh Dai Bang Kieu Hanh,ALTAR CÁNH ĐẠI BẢNG KIÊU HÀNH,shared words,B,C,altair cánh đại bàng kiêu hãnh
+qwen25,P222/3_3_eyes_co_be_ba_mat-good-bia_1.jpg,3 3 Eyes Co Be Ba Mat,3x3 Eyes - Cô Bé Ba Mắt,shared words,A,A,
+qwen25,P820/o_long_vien_sieu_buon_cuoi-fair-khac_2.jpg,O Long Vien Sieu Buon Cuoi,Ô LONG VIỆT SIÊU BUỒN CƯỜI,shared words,B,A,
+qwen25,P761/tieu_thu_nhu_dao-fair-bia_1.jpg,Tieu Thu Nhu Dao,Tiểu Thú Như Ý,shared words,D,C,tiểu thư nhu dạo
+qwen25,P727/phien_van_phuc_vu-fair-bia_1.jpg,Phien Van Phuc Vu,Phấn Vấn Phúc Vũ,spelling,B,C,phiên vân phúc vũ
+qwen25,P461/chu_meo_poko-good-bia_1.jpg,Chu Meo Poko,Chú Mèo Paka,spelling,B,C,chú mèo poko
+qwen25,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cậu mà nhà xi PAKAKO,shared words,B,C,cậu ma nhà xí hanako
+qwen25,P597/ninja_hactory-fair-bia_1.jpg,Ninja Hactory,NINJA FACTORY,spelling,B,B,ninja hactory
+qwen25,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu Hiệp Long Thần,spelling,B,C,bogu tiểu long thần
+qwen25,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,Chính Sát Siêu Quậy,spelling,B,C,cảnh sát siêu quậy
+qwen25,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,Merumo và Những Viên Kẹo Thần Kỳ,shared words,A,A,
+qwen25,P1700/ngoi_sao_kabi-good-bia_1.jpg,Ngoi Sao Kabi,NGÔI SAO LABI,spelling,B,B,ngôi sao kabi
+qwen25,P829/hanh_trinh_u_linh_gioi-collectible-bia_1.jpg,Hanh Trinh U Linh Gioi,Hành Trình Linh Giác,spelling,B,C,hành trình u linh giới
+qwen25,P703/kiem_hiep_huyet_anh_vu_co_long-good-bia_1.jpg,Kiem Hiep Huyet Anh Vu Co Long,Cổ Long Huyết Anh Vũ,shared words,A,A,
+qwen25,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhật ký Midori,spelling,A,A,
+qwen25,P259/thien_than_tren_duong_dua-fair-khac_1.jpg,Thien Than Tren Duong Dua,Thiên Thanh Trẻ Đuông Dưa,spelling,B,C,thiên thần trên đường đua
+qwen25,P415/canh_cut_rac_roi_ky-good-khac_2.jpg,Canh Cut Rac Roi Ky,Chính Cut Rạc Rối Kỳ,shared words,B,C,cánh cụt rắc rối
+qwen25,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen25,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen25,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A,A,
+qwen25,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,Hunter x Hunter,shared words,A,A,
+qwen25,P521/nguoi_ke_vi_bi_an-fair-khac_2.jpg,Nguoi Ke Vi Bi An,NGƯỜI KẾ VỊ GIẢN,spelling,B,C,người kế vị bí ẩn
+qwen25,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Tùng đất xa xăm,spelling,B,B,vùng đất xa xăm
+qwen25,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHÚ THOÀNG,spelling,B,B,chú thòong
+qwen25,P2846/co_dau_thao_nguyen_mori_kaoru_tap_7_14_b-good-bia_1.jpg,Co Dau Thao Nguyen,Cô đẩu hào nguyệt,spelling,B,C,cô dâu thảo nguyên
+qwen25,P1115/alice_in_borderlands_1_4_co_phu_kien-good-mep_1.jpg,Alice In Borderland,Alice in Wonderland,spelling,C,B,Alice In Borderland
+qwen25,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A,A,
+qwen25,P1014/anh_hung_vo_le-good-bia_1.jpg,Anh Hung Vo Le,Anh Hùng Võ Lâm,spelling,D,C,anh hùng vô lệ
+qwen25,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua valo,spelling,B,C,vua xa lộ
+qwen25,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A,A,
+qwen25,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari có bé tình nghiệt,shared words,B,C,cô bé tinh nghịch asari
+qwen25,P889/doi_quan_doraemon_them-good-bia_1.jpg,Doi Quan Doraemon Them,Đội Quán Doraemon Đặc Biệt,contains,D,A,
+qwen25,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A,A,
+qwen25,P366/gasshu_cau_be_bi_an-fair-khac_2.jpg,Gasshu Cau Be Bi An,GẤSUU Cậu bé bí ẩn,shared words,B,B,gasshu cậu bé bí ẩn
+qwen25,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái ba,contains,A,B,đọc thiếu
+qwen25,P879/doremon_mau-fair-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen25,P825/cuoc_phieu_luu_cua_croket-good-bia_1.jpg,Cuoc Phieu Luu Cua Croket,Cuộc phiêu lưu của Crocket,spelling,B,B,cuộc phiêu lưu của croket
+qwen25,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A,A,
+qwen25,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A,A,
+qwen25,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A,A,
+qwen25,P1002/spirou_va_fantasio-good-khac_1.jpg,Spirou Va Fantasio,SPIROU & FANTASIO!,shared words,A,A,
+qwen35_745,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cái ma nhà xí HAKAKO,spelling,B,C,cậu ma nhà xí hanako
+qwen35_745,P159/cau_lac_bo_nhung_ke_mat_ngu-good-mep_1.jpg,Cau Lac Bo Nhung Ke Mat Ngu,Cô lạc bỏ những kẻ mất ngủ,shared words,B,C,câu lạc bộ những kẻ mất ngủ
+qwen35_745,P232/ikigimi-collectible-bia_1.jpg,Ikigimi,IKIGAMI,spelling,A,A,
+qwen35_745,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A,A,
+qwen35_745,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái bà,contains,B,C,con gái của ba
+qwen35_745,P288/tham_tu_kindaichi-fair-khac_1.jpg,Tham Tu Kindaichi,Thám Tử Kidaichi,spelling,B,B,thám tử kindaichi
+qwen35_745,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokemon Đặc Biệt,contains,D,A,
+qwen35_745,P331/bac_si_ma_gioi-fair-bia_1.jpg,Bac Si Ma Gioi,Bác Sĩ Ma Girl,spelling,B,C,bác sĩ ma giới
+qwen35_745,P357/hoc_sinh_chan_kinh-good-bia_1.jpg,Hoc Sinh Chan Kinh,Học Sinh Chân Tình,spelling,B,B,học sinh chân kinh
+qwen35_745,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Từng đất xa xăm,spelling,B,B,
+qwen35_745,P378/theo_dau_rong_than-fair-bia_1.jpg,Theo Dau Rong Than,THEO DẤU DRAGON BALL RỒNG THẦN,shared words,A,A,
+qwen35_745,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,CHÚ THƯỜNG,spelling,B,B,
+qwen35_745,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A,A,
+qwen35_745,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử về thăm nhà Momochi,shared words,B,C,hoàng tử vệ thần momochi
+qwen35_745,P416/hoa_su_ma_meo-good-khac_1.jpg,Hoa Su Ma Meo,Hè Su Mả Mèo,spelling,B,C,
+qwen35_745,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A,A,
+qwen35_745,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,MERUMO VÀ NHỮNG VIÊN KẸO THẦN KỲ,shared words,A,A,
+qwen35_745,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,HUNTER X HUNTER,shared words,A,A,
+qwen35_745,P493/hiep_khach_hanh-fair-khac_1.jpg,Hiep Khach Hanh,HIỆP KHÁCH HƯNG,spelling,B,C,hiệp khách hành
+qwen35_745,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,HUNTER THỢ SĂN,shared words,A,A,
+qwen35_745,P501/tiem_thu_kieng-good-khac_1.jpg,Tiem Thu Kieng,Tiện Thủ Kiểng,spelling,B,A,
+qwen35_745,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu: Miên Long Thân,spelling,B,C,bogu tiểu long thần
+qwen35_745,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHÚ THƯỜNG,spelling,B,C,
+qwen35_745,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhat is Midori!,spelling,B,C,nhật ký midori
+qwen35_745,P572/hanh_trinh_cua_uduchi-fair-khac_2.jpg,Hanh Trinh Cua Uduchi,Hành Trình Của Udedchi,spelling,B,B,
+qwen35_745,P596/nhung_hanh_tinh_la-fair-khac_2.jpg,Nhung Hanh Tinh La,NHỮNG HÀNH TRÌNH LÁ,spelling,B,C,những hành tinh lạ
+qwen35_745,P599/psyren-good-khac_1.jpg,Psyren,PSY-PEN,spelling,B,B,
+qwen35_745,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua KaLo,spelling,B,C,vua xa lộ
+qwen35_745,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,CÁU BÉ 3 MẮT,shared words,A,B,
+qwen35_745,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A,A,
+qwen35_745,P628/akuno_cua_toi-good-khac_1.jpg,Akuno Cua Toi,Akuno ga Tōi,shared words,B,C,akuno của tôi
+qwen35_745,P629/artist_acro-good-khac_2.jpg,Artist Acro,Artist Airo,spelling,B,D,không thấy rõ tên
+qwen35_745,P641/tan_tu_dien_ki_bi-good-khac_1.jpg,Tan Tu Dien Ki Bi,Tân Tử Đỉnh Kì Bí,shared words,B,C,tân từ điển kì bí
+qwen35_745,P646/dong_song_huyen_bi-good-khac_1.jpg,Dong Song Huyen Bi,Đông Song Huyên Hi,spelling,B,C,dòng sông huyền bí
+qwen35_745,P680/hac_quan_gia-good-khac_1.jpg,Hac Quan Gia,Thế Quân Gia,contains,C,C,hắc quản gia
+qwen35_745,P727/phien_van_phuc_vu-fair-bia_1.jpg,Phien Van Phuc Vu,PHIÊN VÂN PHÚC VỊ,spelling,B,C,phiên vân phúc vũ
+qwen35_745,P770/tu_dai_danh_bo-fair-bia_1.jpg,Tu Dai Danh Bo,TÚ ĐẠI DANG BÒ,spelling,B,C,tứ đại danh bổ
+qwen35_745,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,ĐEN CÙNG UỐNG TRÀ,shared words,B,C,đến quỷ cũng uống trà
+qwen35_745,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A,A,
+qwen35_745,P785/dai_chien_titan-good-khac_1.jpg,Dai Chien Titan,ĐÁCH CHIẾN TITAN,spelling,B,C,đại chiến titan
+qwen35_745,P819/du_an_keo_vang-good-khac_1.jpg,Du An Keo Vang,Đừng Ăn Kẹo Vàng,spelling,B,C,dự án kẹo vàng
+qwen35_745,P879/doremon_mau-fair-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_745,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_745,P910/doremon_plus-fair-khac_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_745,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_745,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_745,P970/wow_bay_thu_ky_dieu_pokemon-good-bia_1.jpg,Wow Bay Thu Ky Dieu Pokemon,Wow! Thú kỳ diệu,shared words,A,B,wow bầy thú kỳ diệu
+qwen35_745,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hầu gái Kōng Kobayashi,spelling,B,B,
+qwen35_745,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,Cảnh sát Siêu Quyền,spelling,B,B,
+qwen35_745,P1009/loi_noi_doi_thang_tu-good-bia_1.jpg,Loi Noi Doi Thang Tu,Lời nói dối tháng 6,shared words,B,C,lời nói dối thàng tư
+qwen35_745,P1894/dung_si_hesman-good-mep_1.jpg,Dung Si Hesman,Đừng Sợ Hesman,spelling,B,C,dũng sĩ hesman
+qwen35_772,P084/thanh_guom_diet_quy-pristine-bia_1.jpg,Thanh Gươm Diệt Quỷ,THÁNH GIỚI DIỆT QUỲ,spelling,B,C,thanh gươm diệt quỷ
+qwen35_772,P156/cau_ma_nha_xi_hanako-collectible-mep_1.jpg,Cau Ma Nha Xi Hanako,Cái ma nhà xí HAKAKO,spelling,B,C,cậu ma nhà xí hanako
+qwen35_772,P159/cau_lac_bo_nhung_ke_mat_ngu-good-mep_1.jpg,Cau Lac Bo Nhung Ke Mat Ngu,Cô lạc bỏ những kẻ mất ngủ,shared words,B,C,câu lạc bộ những kẻ mất ngủ
+qwen35_772,P237/monochorme_kids-fair-bia_1.jpg,Monochorme Kids,MONOCHROME KIDS,spelling,A,A,
+qwen35_772,P269/con_gai_cua_ba-good-bia_1.jpg,Con Gai Cua Ba,Con gái bà,contains,B,C,con gái của ba
+qwen35_772,P288/tham_tu_kindaichi-fair-khac_1.jpg,Tham Tu Kindaichi,Thám Tử Kidaichi,spelling,B,B,thám tử kindaichi
+qwen35_772,P317/chu_pokemon-fair-bia_1.jpg,Chu Pokemon,Pokemon Đặc Biệt,contains,D,A,
+qwen35_772,P331/bac_si_ma_gioi-fair-bia_1.jpg,Bac Si Ma Gioi,Bác Sĩ Ma Girl,spelling,B,C,bác sĩ ma giới
+qwen35_772,P357/hoc_sinh_chan_kinh-good-bia_1.jpg,Hoc Sinh Chan Kinh,Học Sinh Chân Tình,spelling,B,B,học sinh chân kinh
+qwen35_772,P377/vung_dat_xa_xam-fair-bia_1.jpg,Vung Dat Xa Xam,Từng đất xa xăm,spelling,B,B,
+qwen35_772,P378/theo_dau_rong_than-fair-bia_1.jpg,Theo Dau Rong Than,THEO DẤU DRAGON BALL RỒNG THẦN HIỆP ƯỚC ĐỊNH CHIẾN,shared words,A,B,
+qwen35_772,P392/chu_thoong-fair-khac_2.jpg,Chu Thoong,CHỦ THƯỜNG,spelling,B,B,
+qwen35_772,P407/spy_family-good-khac_2.jpg,Spy Family,SPYxFAMILY,spelling,A,A,
+qwen35_772,P410/hoang_tu_ve_than_momochi-good-khac_1.jpg,Hoang Tu Ve Than Momochi,Hoàng tử về thăm nhà Momochi,shared words,B,C,hoàng tử vệ thần momochi
+qwen35_772,P422/nhat_quy_nhi_ma_thu_ba_takagi-good-khac_1.jpg,Nhat Quy Nhi Ma Thu Ba Takagi,"Nhật ký ma, thư ba Takagi",shared words,B,C,nhất quỷ nhì ma thứ ba takagi
+qwen35_772,P429/chu_gia_nuoi_meo_u-good-bia_1.jpg,Chu Gia Nuoi Meo U,CHỦ GIA NUÔI MEOW,spelling,B,C,chú già nuôi mèo ú
+qwen35_772,P439/bong_cuc_dieu_ki-good-khac_2.jpg,Bong Cuc Dieu Ki,Bông Cúc Diệu Kỳ,spelling,A,A,
+qwen35_772,P448/dray_man-fair-khac_2.jpg,Dray Man,D.Gray-man,spelling,A,A,
+qwen35_772,P456/merumo_va_nhung_vien_keo_than_ki-good-bia_1.jpg,Merumo Va Nhung Vien Keo Than Ki,MERUMO VÀ NHỮNG VIÊN KẸO THẦN KỲ,shared words,A,A,
+qwen35_772,P460/atom_cau_be_tay_sat-good-khac_1.jpg,Atom Cau Be Tay Sat,ASTRO BOY CÂU BÉ TAY SẮT,shared words,A,A,
+qwen35_772,P461/chu_meo_poko-good-bia_1.jpg,Chu Meo Poko,Chú Mèo Peko,spelling,B,C,chú mèo poko
+qwen35_772,P464/hunter_hunter-good-khac_2.jpg,Hunter Hunter,Hunter x Hunter,shared words,A,A,
+qwen35_772,P495/tho_san_hunter-fair-khac_1.jpg,Tho San Hunter,Hunter Thợ Săn,shared words,A,A,
+qwen35_772,P501/tiem_thu_kieng-good-khac_1.jpg,Tiem Thu Kieng,Tiện Thủ Kiềng,spelling,B,C,tiệp thú kiểng
+qwen35_772,P505/bogu_tieu_long_than-fair-khac_2.jpg,Bogu Tieu Long Than,Bogu Meilong Than,spelling,B,C,bogu tiểu long thần
+qwen35_772,P510/chu_thoong-good-bia_1.jpg,Chu Thoong,CHỦ THƯỜNG,spelling,B,C,chú thòong
+qwen35_772,P534/vien_dan_tinh_yeu-good-khac_1.jpg,Vien Dan Tinh Yeu,VIỄN ĐẠM TÌNH YÊU,spelling,B,C,viên đạn tình yêu
+qwen35_772,P542/nhat_ki_midori-fair-khac_2.jpg,Nhat Ki Midori,Nhất là Midori!,spelling,B,C,nhật ký midori
+qwen35_772,P572/hanh_trinh_cua_uduchi-fair-khac_2.jpg,Hanh Trinh Cua Uduchi,Hành Trình Của Udedi,spelling,B,B,
+qwen35_772,P596/nhung_hanh_tinh_la-fair-khac_2.jpg,Nhung Hanh Tinh La,NHỮNG HÀNH TRÌNH LÁ,spelling,B,C,những hành tinh lạ
+qwen35_772,P599/psyren-good-khac_1.jpg,Psyren,PSY-PEN,spelling,B,B,
+qwen35_772,P615/vua_xa_lo-good-bia_1.jpg,Vua Xa Lo,Vua KaLo,spelling,B,C,vua xa lộ
+qwen35_772,P617/cau_be_ba_mat-fair-bia_1.jpg,Cau Be Ba Mat,CAU BE 3 MAT,shared words,A,A,
+qwen35_772,P622/cay_dan_ki_dieu-fair-bia_1.jpg,Cay Dan Ki Dieu,Cây đàn kỳ diệu,spelling,A,A,
+qwen35_772,P629/artist_acro-good-khac_2.jpg,Artist Acro,Artist Airo,spelling,B,D,không thấy rõ tên
+qwen35_772,P641/tan_tu_dien_ki_bi-good-khac_1.jpg,Tan Tu Dien Ki Bi,Tân Tử Đỉnh Kì Bí,shared words,B,C,tân từ điển kì bí
+qwen35_772,P646/dong_song_huyen_bi-good-khac_1.jpg,Dong Song Huyen Bi,Đông Song Huyên Hi,spelling,B,C,dòng sông huyền bí
+qwen35_772,P664/nghin_le_mot_dem-fair-khac_1.jpg,Nghin Le Mot Dem,ngàn lẻ một đêm,spelling,A,B,
+qwen35_772,P680/hac_quan_gia-good-khac_1.jpg,Hac Quan Gia,Thế Quân Gia,contains,C,C,hắc quản gia
+qwen35_772,P744/than_dong_dat_viet_tap_1_100-fair-khac_1.jpg,Than Dong Dat Viet,THÂN ĐÔNG BẤT VIỆT,spelling,B,C,thần đồng đất việt
+qwen35_772,P754/vuong_tu_takeru-fair-khac_1.jpg,Vuong Tu Takeru,Vương Tử Tài Kêu,spelling,B,C,vương tử takeru
+qwen35_772,P755/hikaru_ki_thu_co_vay-fair-bia_1.jpg,Hikaru Ki Thu Co Vay,HIKARU KÌ THU ĐÔNG VÂY,shared words,B,C,hikaru kì thủ cờ vây
+qwen35_772,P770/tu_dai_danh_bo-fair-bia_1.jpg,Tu Dai Danh Bo,TU ĐẠI DẠNG BỒ,spelling,B,C,tứ đại danh bổ
+qwen35_772,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,ĐEN CÙNG UỐNG TRÀ,shared words,B,C,đến quỷ cũng uống trà
+qwen35_772,P784/sau_chang_trai_mot_co_gai-fair-khac_2.jpg,Sau Chang Trai Mot Co Gai,Sáu chàng trai và một cô gái,shared words,A,A,
+qwen35_772,P785/dai_chien_titan-good-khac_1.jpg,Dai Chien Titan,ĐÁCH CHIẾN TITAN,spelling,B,C,đại chiến titan
+qwen35_772,P806/ngon_lua_recca-fair-khac_2.jpg,Ngon Lua Recca,Ngọn Lửa Redca,spelling,B,B,
+qwen35_772,P819/du_an_keo_vang-good-khac_1.jpg,Du An Keo Vang,Đừng Ăn Kẹo Vàng,spelling,B,C,dự án kẹo vàng
+qwen35_772,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,CHI EM GÁI CANDY,shared words,A,A,
+qwen35_772,P853/co_be_tinh_nghich_asari-collectible-khac_1.jpg,Co Be Tinh Nghich Asari,Asari cô bé tình nghi,shared words,B,C,asari cô bé tinh nghịch
+qwen35_772,P879/doremon_mau-fair-bia_1.jpg,Doremon,doraemon,spelling,A,A,
+qwen35_772,P890/doremon_tieng_anh-pristine-khac_2.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_772,P952/doremon_nhi_dong_full_bo-good-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_772,P957/doremon_ngan-fair-bia_1.jpg,Doremon,Doraemon,spelling,A,A,
+qwen35_772,P970/wow_bay_thu_ky_dieu_pokemon-good-bia_1.jpg,Wow Bay Thu Ky Dieu Pokemon,Wow! Thú kỳ diệu,shared words,A,B,wow bầy thú kỳ diệu
+qwen35_772,P984/hau_gai_rong_kobayashi-fair-bia_1.jpg,Hau Gai Rong Kobayashi,Hầu gái Kōng Kobayashi,spelling,B,B,
+qwen35_772,P1000/canh_sat_sieu_quay-good-mep_1.jpg,Canh Sat Sieu Quay,CÔNG SÁT SIÊU QUÝ,spelling,B,C,cảnh sát siêu quậy
+qwen35_772,P1009/loi_noi_doi_thang_tu-good-bia_1.jpg,Loi Noi Doi Thang Tu,Lời nói dối tháng Chín,shared words,B,C,lời nói dối tháng tư
+qwen35_772,P1013/co_gai_de_thuong-good-khac_1.jpg,Co Gai De Thuong,Cô Gái Mỹ Thương,spelling,B,C,cô gái dể thương
+qwen35_772,P1430/tam_quoc_dien_nghia-good-gay_1.jpg,Tam Quoc Dien Nghia,ĐIỆN NGHĨA TAM QUỐC,shared words,B,D,không thấy tên sách
+qwen35_772,P1894/dung_si_hesman-good-mep_1.jpg,Dung Si Hesman,Đừng Sợ Hesman,spelling,B,C,dũng sĩ hesman

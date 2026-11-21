@@ -11,11 +11,11 @@ applied after both strings are lower-cased and stripped of diacritics, spaces an
 3. the edit distance is at most 20% of the longer string.
 
 The loose rules exist because seller titles contain typos and translated titles. They can also accept a reading with
-misread letters, or one that names a different book.
+misread letters (for example "Chú Thuat Hai Chien" for *Chú thuật hồi chiến*), or one that names a different book.
 
 ## The check
 
-`loose-matches-categorized.csv` lists every test-photo answer (868 photos) accepted only through a loose rule:
+`loose-matches-categorized.csv` lists every answer on the 868 test photos that the scorer accepts only through a loose rule.
 
 | Model | Loose matches |
 |---|--:|
@@ -24,27 +24,37 @@ misread letters, or one that names a different book.
 | Qwen3.5-9B, run 745 | 51 |
 | Qwen3.5-9B, setting B, run 772 | 61 |
 
-Columns: `method`, `image` (photo id, not shared), `answer_key`, `model_reading`, `rule`, `category`.
+Two team members categorized each of the 164 distinct readings **independently and blind to each other**. The second
+rater could open the photo.
 
-Each pair was read by hand and given one category:
+Columns:
+- `method`, `image` (photo id; photos are not shared), `answer_key`, `model_reading`, `rule`;
+- `category_rater_1`, `category_rater_2`;
+- `note_rater_2` (in Vietnamese).
+
+Categories:
 
 | Category | Meaning |
 |---|---|
 | A | Correct. Differs only in diacritics, case, punctuation, word order, a known alias or a subtitle, or the seller's title holds the typo |
 | B | Right series, misread letters. The seller would have to correct the name |
-| C | Another book, or a person's name |
-| D | Cannot be decided without the photo |
+| C | Wrong: another book or a person's name. The second rater also used C for many misread names |
+| D | Cannot be decided |
+
+B and C both count as wrong.
 
 ## Result
 
-Harm on the 868 test photos. D is counted both ways, which gives the range in the last column.
+The raters gave the same right / wrong / undecided judgement on 139 of the 164 readings (84.8%, Cohen's κ = 0.71).
 
-| Model | A | B | C | D | Automatic | B and C counted as wrong |
-|---|--:|--:|--:|--:|--:|--:|
-| Gemini | 32 | 0 | 1 | 7 | 3.2% | 3.3–4.1% |
-| Qwen2.5-VL | 18 | 36 | 3 | 4 | 20.7% | 25.2–25.7% |
-| Qwen3.5-9B (745) | 17 | 32 | 1 | 1 | 28.6% | 32.4–32.5% |
-| Qwen3.5-9B, setting B (772) | 19 | 40 | 1 | 1 | 24.4% | 29.1–29.3% |
+Harm on the 868 test photos, counting a reading wrong if **either** rater judged it wrong. The undecided readings are
+counted both ways, which gives the range.
 
-The automatic score therefore favors the local models. One team member assigned the categories; a second, blind rating
-is in progress.
+| Model | Judged wrong by either rater | Automatic harm | Corrected harm |
+|---|--:|--:|--:|
+| Gemini | 6 of 40 | 3.2% | 3.9–4.4% |
+| Qwen2.5-VL | 43 of 61 | 20.7% | 25.7–25.8% |
+| Qwen3.5-9B (745) | 35 of 51 | 28.6% | 32.6–32.7% |
+| Qwen3.5-9B, setting B (772) | 44 of 61 | 24.4% | 29.5–29.6% |
+
+The automatic score therefore favors the local models.
