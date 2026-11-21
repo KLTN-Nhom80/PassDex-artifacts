@@ -1,0 +1,109 @@
+{
+  "kind": "sequential latency",
+  "base": "https://passdex.site",
+  "startedAt": "2026-11-20T17:36:17.929Z",
+  "finishedAt": "2026-11-20T17:37:26.737Z",
+  "samplesPerEndpoint": 30,
+  "gapMs": 320,
+  "listingIdsSampled": 45,
+  "byName": {
+    "home page (HTML)": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 77.1,
+      "p90": 80.9,
+      "p95": 82.8,
+      "p99": 84.4,
+      "max": 84.6,
+      "mean": 76.5
+    },
+    "market search, first page": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 46.5,
+      "p90": 50.7,
+      "p95": 53.8,
+      "p99": 57.1,
+      "max": 57.7,
+      "mean": 47.6
+    },
+    "keyword search": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 53.7,
+      "p90": 63.2,
+      "p95": 65.7,
+      "p99": 67.1,
+      "max": 67.6,
+      "mean": 53.8
+    },
+    "search facets": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 48.7,
+      "p90": 57.8,
+      "p95": 62.3,
+      "p99": 70.4,
+      "max": 72.4,
+      "mean": 49.3
+    },
+    "listing detail": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 43.4,
+      "p90": 46.2,
+      "p95": 46.6,
+      "p99": 47.6,
+      "max": 48,
+      "mean": 44.1
+    },
+    "catalog search": {
+      "n": 30,
+      "ok": 30,
+      "errors": 0,
+      "statuses": {
+        "200": 30
+      },
+      "p50": 41.5,
+      "p90": 44.4,
+      "p95": 48.9,
+      "p99": 54.1,
+      "max": 56,
+      "mean": 42.6
+    }
+  },
+  "overall": {
+    "n": 180,
+    "ok": 180,
+    "errors": 0,
+    "statuses": {
+      "200": 180
+    },
+    "p50": 46.5,
+    "p90": 76.5,
+    "p95": 78.2,
+    "p99": 82,
+    "max": 84.6,
+    "mean": 52.3
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "kind": "read-only browsing load",
+  "base": "https://passdex.site",
+  "thinkMs": 1000,
+  "secondsPerLevel": 60,
+  "marketListings": 45,
+  "results": [
+    {
+      "users": 10,
+      "startedAt": "2026-11-20T17:31:13.767Z",
+      "finishedAt": "2026-11-20T17:32:14.815Z",
+      "seconds": 61,
+      "requests": 1590,
+      "throughputPerSecond": 26,
+      "errorRatePercent": 0,
+      "emptySearchPercent": 20.8,
+      "overall": {
+        "n": 1590,
+        "ok": 1590,
+        "errors": 0,
+        "statuses": {
+          "200": 1590
+        },
+        "p50": 45.1,
+        "p90": 56.3,
+        "p95": 62.4,
+        "p99": 122.6,
+        "max": 168,
+        "mean": 48.1
+      },
+      "byName": {
+        "search": {
+          "n": 530,
+          "ok": 530,
+          "errors": 0,
+          "statuses": {
+            "200": 530
+          },
+          "p50": 48.4,
+          "p90": 59.8,
+          "p95": 66.5,
+          "p99": 122.1,
+          "max": 165.7,
+          "mean": 50.9
+        },
+        "facets": {
+          "n": 530,
+          "ok": 530,
+          "errors": 0,
+          "statuses": {
+            "200": 530
+          },
+          "p50": 44,
+          "p90": 52.3,
+          "p95": 58.1,
+          "p99": 113.4,
+          "max": 168,
+          "mean": 46.5
+        },
+        "detail": {
+          "n": 530,
+          "ok": 530,
+          "errors": 0,
+          "statuses": {
+            "200": 530
+          },
+          "p50": 44.3,
+          "p90": 53.4,
+          "p95": 58.8,
+          "p99": 112.9,
+          "max": 163.7,
+          "mean": 46.8
+        }
+      }
+    },
+    {
+      "users": 50,
+      "startedAt": "2026-11-20T17:32:29.823Z",
+      "finishedAt": "2026-11-20T17:33:30.675Z",
+      "seconds": 60.8,
+      "requests": 7170,
+      "throughputPerSecond": 117.9,
+      "errorRatePercent": 0,
+      "emptySearchPercent": 24.4,
+      "overall": {
+        "n": 7170,
+        "ok": 7170,
+        "errors": 0,
+        "statuses": {
+          "200": 7170
+        },
+        "p50": 65.1,
+        "p90": 151.6,
+        "p95": 180.9,
+        "p99": 234.4,
+        "max": 3210.6,
+        "mean": 86
+      },
+      "byName": {
+        "search": {
+          "n": 2390,
+          "ok": 2390,
+          "errors": 0,
+          "statuses": {
+            "200": 2390
+          },
+          "p50": 60.2,
+          "p90": 151.5,
+          "p95": 168.3,
+          "p99": 211.7,
+          "max": 3210.6,
+          "mean": 84.9
+        },
+        "facets": {
+          "n": 2390,
+          "ok": 2390,
+          "errors": 0,
+          "statuses": {
+            "200": 2390
+          },
+          "p50": 65.3,
+          "p90": 106,
+          "p95": 118.1,
+          "p99": 156.8,
+          "max": 1237.3,
+          "mean": 73
+        },
+        "detail": {
+          "n": 2390,
+          "ok": 2390,
+          "errors": 0,
+          "statuses": {
+            "200": 2390
+          },
+          "p50": 79,
+          "p90": 189.9,
+          "p95": 213.8,
+          "p99": 262.4,
+          "max": 1232.6,
+          "mean": 100.2
+        }
+      }
+    },
+    {
+      "users": 100,
+      "startedAt": "2026-11-20T17:33:45.701Z",
+      "finishedAt": "2026-11-20T17:34:46.822Z",
+      "seconds": 61.1,
+      "requests": 11865,
+      "throughputPerSecond": 194.2,
+      "errorRatePercent": 0,
+      "emptySearchPercent": 23.1,
+      "overall": {
+        "n": 11865,
+        "ok": 11865,
+        "errors": 0,
+        "statuses": {
+          "200": 11865
+        },
+        "p50": 141.7,
+        "p90": 335.1,
+        "p95": 388.2,
+        "p99": 494.8,
+        "max": 733.4,
+        "mean": 166.5
+      },
+      "byName": {
+        "search": {
+          "n": 3955,
+          "ok": 3955,
+          "errors": 0,
+          "statuses": {
+            "200": 3955
+          },
+          "p50": 127.8,
+          "p90": 306.5,
+          "p95": 358.5,
+          "p99": 440.7,
+          "max": 541.4,
+          "mean": 151.5
+        },
+        "facets": {
+          "n": 3955,
+          "ok": 3955,
+          "errors": 0,
+          "statuses": {
+            "200": 3955
+          },
+          "p50": 117.5,
+          "p90": 181.7,
+          "p95": 225.3,
+          "p99": 317.3,
+          "max": 401.8,
+          "mean": 118.1
+        },
+        "detail": {
+          "n": 3955,
+          "ok": 3955,
+          "errors": 0,
+          "statuses": {
+            "200": 3955
+          },
+          "p50": 240,
+          "p90": 402.3,
+          "p95": 458.1,
+          "p99": 542.1,
+          "max": 733.4,
+          "mean": 230
+        }
+      }
+    },
+    {
+      "users": 200,
+      "startedAt": "2026-11-20T17:35:01.854Z",
+      "finishedAt": "2026-11-20T17:36:04.055Z",
+      "seconds": 62.2,
+      "requests": 17049,
+      "throughputPerSecond": 274.3,
+      "errorRatePercent": 0,
+      "emptySearchPercent": 22.7,
+      "overall": {
+        "n": 17049,
+        "ok": 17049,
+        "errors": 0,
+        "statuses": {
+          "200": 17049
+        },
+        "p50": 279.4,
+        "p90": 808.9,
+        "p95": 887.4,
+        "p99": 1088.8,
+        "max": 1409.2,
+        "mean": 366.9
+      },
+      "byName": {
+        "search": {
+          "n": 5683,
+          "ok": 5683,
+          "errors": 0,
+          "statuses": {
+            "200": 5683
+          },
+          "p50": 270.1,
+          "p90": 725,
+          "p95": 850.1,
+          "p99": 991.7,
+          "max": 1179.5,
+          "mean": 328.4
+        },
+        "facets": {
+          "n": 5683,
+          "ok": 5683,
+          "errors": 0,
+          "statuses": {
+            "200": 5683
+          },
+          "p50": 227.3,
+          "p90": 367.1,
+          "p95": 586.7,
+          "p99": 762.4,
+          "max": 904.7,
+          "mean": 229.3
+        },
+        "detail": {
+          "n": 5683,
+          "ok": 5683,
+          "errors": 0,
+          "statuses": {
+            "200": 5683
+          },
+          "p50": 577.3,
+          "p90": 896.6,
+          "p95": 963.4,
+          "p99": 1223.3,
+          "max": 1409.2,
+          "mean": 543
+        }
+      }
+    }
+  ]
+}
