@@ -24,8 +24,16 @@ misread letters (for example "Chú Thuat Hai Chien" for *Chú thuật hồi chi�
 | Qwen3.5-9B, run 745 | 51 |
 | Qwen3.5-9B, setting B, run 772 | 61 |
 
-Two team members categorized each of the 164 distinct readings **independently and blind to each other**. The second
-rater could open the photo.
+Each of the 164 distinct readings has two categories:
+- `category_rater_1`: proposed by Claude (Anthropic) from the two strings, then checked line by line by the first author;
+- `category_rater_2`: a second team member, who did not see rater 1's categories and could open the photo.
+
+The agreement below is between these two assessments.
+
+**Scope.** These are the answers the scorer accepts only through a loose rule, after its alias step rejected them. The alias
+step also accepts an answer when one normalized title contains the other: 429 more answers in the four runs (123, 103,
+104, 99), 110 of them with a string of at most six characters. Those were not rated. Counting all 110 short ones as
+wrong would add at most 2.5 points of harm for Gemini and 3.5 for the local models.
 
 Columns:
 - `method`, `image` (photo id; photos are not shared), `answer_key`, `model_reading`, `rule`;
