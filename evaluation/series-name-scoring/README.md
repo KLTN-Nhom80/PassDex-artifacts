@@ -24,21 +24,18 @@ misread letters (for example "Chú Thuat Hai Chien" for *Chú thuật hồi chi�
 | Qwen3.5-9B, run 745 | 51 |
 | Qwen3.5-9B, setting B, run 772 | 61 |
 
-Each of the 164 distinct readings has two categories:
-- `category_rater_1`: proposed by Claude (Anthropic) from the two strings, then checked line by line by the first author;
-- `category_rater_2`: a second team member, who did not see rater 1's categories and could open the photo.
+Two team members rated every reading **independently, without seeing each other's ratings**, and could open the
+photo (22 Nov 2026). The categories in these tables are theirs only.
 
-The agreement below is between these two assessments.
+**Two checks.**
+1. *Loose rules.* The answers the scorer accepts only through a loose rule, after its alias step rejected them:
+   213 answers, 164 distinct readings (`loose-matches-categorized.csv`).
+2. *Short names.* The alias step also accepts an answer when one normalized title contains the other: 429 answers in
+   the four runs (123, 103, 104, 99). The 110 of them with a string of at most six characters (62 distinct pairs) were
+   rated (`short-containment-categorized.csv`). The other 319, with longer strings, were not.
 
-**Scope.** These are the answers the scorer accepts only through a loose rule, after its alias step rejected them. The alias
-step also accepts an answer when one normalized title contains the other: 429 more answers in the four runs (123, 103,
-104, 99), 110 of them with a string of at most six characters. Those were not rated. Counting all 110 short ones as
-wrong would add at most 2.5 points of harm for Gemini and 3.5 for the local models.
-
-Columns:
-- `method`, `image` (photo id; photos are not shared), `answer_key`, `model_reading`, `rule`;
-- `category_rater_1`, `category_rater_2`;
-- `note_rater_2` (in Vietnamese).
+Columns: `method`, `image` (photo id; photos are not shared), `answer_key`, `model_reading`, `rule` or
+`shorter_length`, `category_rater_1`, `category_rater_2`.
 
 Categories:
 
@@ -46,23 +43,29 @@ Categories:
 |---|---|
 | A | Correct. Differs only in diacritics, case, punctuation, word order, a known alias or a subtitle, or the seller's title holds the typo |
 | B | Right series, misread letters. The seller would have to correct the name |
-| C | Wrong: another book or a person's name. The second rater also used C for many misread names |
+| C | Wrong: another book or a person's name |
 | D | Cannot be decided |
 
 B and C both count as wrong.
 
 ## Result
 
-The raters gave the same right / wrong / undecided judgement on 139 of the 164 readings (84.8%, Cohen's κ = 0.71).
-
-Harm on the 868 test photos, counting a reading wrong if **either** rater judged it wrong. The undecided readings are
-counted both ways, which gives the range.
-
-| Model | Judged wrong by either rater | Automatic harm | Corrected harm |
+| Check | Distinct readings | Same right / wrong / undecided | Judged wrong by at least one rater |
 |---|--:|--:|--:|
-| Gemini | 6 of 40 | 3.2% | 3.9–4.4% |
-| Qwen2.5-VL | 43 of 61 | 20.7% | 25.7–25.8% |
-| Qwen3.5-9B (745) | 35 of 51 | 28.6% | 32.6–32.7% |
-| Qwen3.5-9B, setting B (772) | 44 of 61 | 24.4% | 29.5–29.6% |
+| Loose rules | 164 | 147 (89.6%, Cohen's κ = 0.79) | 102 |
+| Short names | 62 | 59 (95.2%) | 5 |
+
+Harm on the 868 test photos after both checks, counting a reading wrong if **either** rater judged it wrong. The one
+undecided reading is counted both ways, which gives the range for Gemini.
+
+| Model | Automatic harm | Corrected harm |
+|---|--:|--:|
+| Gemini | 3.2% | 3.6–3.7% |
+| Qwen2.5-VL | 20.7% | 25.6% |
+| Qwen3.5-9B (745) | 28.6% | 32.9% |
+| Qwen3.5-9B, setting B (772) | 24.4% | 29.7% |
+
+An earlier version of this table (21 Nov) used categories proposed by Claude and checked by the first author as rater 1;
+it is replaced by these two human ratings.
 
 The automatic score therefore favors the local models.

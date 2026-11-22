@@ -1,0 +1,111 @@
+method,image,answer_key,model_reading,shorter_length,category_rater_1,category_rater_2
+gemini,P125/mar_1_13_ban_doc_nguoc-fair-bia_1.jpg,Mar 1 13 Ban Doc Nguoc,MÄR,3,A,A
+gemini,P183/touch_deluxe_4_12-poor-bia_1.jpg,Touch Deluxe 4 12,TOUCH,5,A,A
+gemini,P217/legend_truyen_thuyet_fushigi-good-khac_1.jpg,Legend Truyen Thuyet Fushigi,LEGEND,6,A,A
+gemini,P332/mat_quy_kyo-fair-khac_1.jpg,Mat Quy Kyo,KYO,3,A,A
+gemini,P353/wish_clamp-fair-khac_1.jpg,Wish Clamp,Wish,4,A,A
+gemini,P408/bleach_kim_dong-good-khac_1.jpg,Bleach Kim Dong,BLEACH,6,A,A
+gemini,P447/7_ghost-fair-khac_1.jpg,7 Ghost,07 - GHOST,6,A,A
+gemini,P653/tham_tu_eiji-fair-khac_2.jpg,Tham Tu Eiji,EIJI,4,A,A
+gemini,P654/hoang_tu_dan_doh-fair-khac_2.jpg,Hoang Tu Dan Doh,DAN DOH!!,6,A,A
+gemini,P656/tranh_mat_quy_kyo-good-khac_2.jpg,Tranh Mat Quy Kyo,KYO,3,A,A
+gemini,P682/7_seeds_mam_song-good-khac_1.jpg,7 Seeds Mam Song,7 SEEDS,6,A,A
+gemini,P715/mix_cua_adachi-good-bia_1.jpg,Mix Cua Adachi,MIX,3,A,A
+gemini,P728/nine_adachi_mitsuru-good-bia_1.jpg,Nine Adachi Mitsuru,Nine,4,A,A
+gemini,P732/miyuki_adachi_mitsuru-good-khac_2.jpg,Miyuki Adachi Mitsuru,MIYUKI,6,A,A
+gemini,P792/tranh_mau_thuy_hu-good-bia_1.jpg,Tranh Mau Thuy Hu,THỦY HỬ,6,A,A
+gemini,P794/h2_deluxe-good-bia_1.jpg,H2 Deluxe,H2,2,A,A
+gemini,P847/qed_dieu_phai_chung_minh-good-bia_1.jpg,Qed Dieu Phai Chung Minh,Q.E.D.,3,A,A
+gemini,P867/yugioh_vua_tro_choi-good-khac_2.jpg,Yugioh Vua Tro Choi,Yu-Gi-Oh!,6,A,A
+gemini,P909/sakura_thu_linh_the_bai-fair-khac_1.jpg,Sakura Thu Linh The Bai,SAKURA,6,A,A
+gemini,P925/teppi_vang-fair-khac_1.jpg,Teppi Vang,TÉPPI,5,A,A
+gemini,P941/toriko_tho_san_am_thuc-collectible-bia_1.jpg,Toriko Tho San Am Thuc,TORIKO,6,A,A
+gemini,P1288/titeuf_bon_con_gai_that_chan_chet_zep_tr-pristine-gay_1.jpg,Titeuf Bon Con Gai That Chan Chet,Titeuf,6,A,A
+qwen25,P164/hinata_co_be_mang_linh_hon_ba_lao-good-bia_1.jpg,Hinata Co Be Mang Linh Hon Ba Lao,HINATA,6,A,A
+qwen25,P183/touch_deluxe_4_12-poor-bia_1.jpg,Touch Deluxe 4 12,Touch,5,A,A
+qwen25,P217/legend_truyen_thuyet_fushigi-good-khac_1.jpg,Legend Truyen Thuyet Fushigi,LEGEND,6,A,A
+qwen25,P351/boxing_duong_toi_vo_dai-fair-khac_2.jpg,Boxing Duong Toi Vo Dai,Boxing,6,A,A
+qwen25,P353/wish_clamp-fair-khac_1.jpg,Wish Clamp,Wish,4,A,A
+qwen25,P408/bleach_kim_dong-good-khac_1.jpg,Bleach Kim Dong,Bleach,6,A,A
+qwen25,P417/yugioh_r-good-khac_2.jpg,Yugioh R,Yu-Gi-Oh!,6,A,A
+qwen25,P447/7_ghost-fair-khac_1.jpg,7 Ghost,GHOST,5,A,A
+qwen25,P555/co_dau_phap_su-collectible-khac_1.jpg,Co Dau Phap Su,Pháp Sư,6,A,B
+qwen25,P629/artist_acro-good-khac_2.jpg,Artist Acro,Acro,4,A,A
+qwen25,P644/swan_ho_thien_nga-good-bia_1.jpg,Swan Ho Thien Nga,Swan,4,A,A
+qwen25,P652/jojo_chang_trai_dung_cam-fair-khac_1.jpg,Jojo Chang Trai Dung Cam,JoJo,4,A,A
+qwen25,P715/mix_cua_adachi-good-bia_1.jpg,Mix Cua Adachi,MIX,3,A,A
+qwen25,P728/nine_adachi_mitsuru-good-bia_1.jpg,Nine Adachi Mitsuru,Nine,4,A,A
+qwen25,P755/hikaru_ki_thu_co_vay-fair-bia_1.jpg,Hikaru Ki Thu Co Vay,HIKARU,6,A,A
+qwen25,P773/den_quy_cung_uong_tra-fair-khac_2.jpg,Den Quy Cung Uong Tra,ĐEN Q,4,A,C
+qwen25,P794/h2_deluxe-good-bia_1.jpg,H2 Deluxe,H2,2,A,A
+qwen25,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,Candy,5,A,A
+qwen25,P847/qed_dieu_phai_chung_minh-good-bia_1.jpg,Qed Dieu Phai Chung Minh,Q.E.D,3,A,A
+qwen25,P867/yugioh_vua_tro_choi-good-khac_2.jpg,Yugioh Vua Tro Choi,Yu-Gi-Oh!,6,A,A
+qwen25,P881/asari_co_be_tinh_nghich-fair-bia_1.jpg,Asari Co Be Tinh Nghich,ASARI,5,A,A
+qwen25,P884/dr_slump_ultimate_edition-good-khac_2.jpg,Dr Slump Ultimate Edition,Slump,5,A,A
+qwen25,P909/sakura_thu_linh_the_bai-fair-khac_1.jpg,Sakura Thu Linh The Bai,Sakura,6,A,A
+qwen25,P925/teppi_vang-fair-khac_1.jpg,Teppi Vang,TEPPI,5,A,A
+qwen25,P929/sieu_quay_teppi-fair-khac_2.jpg,Sieu Quay Teppi,TEPPI,5,A,A
+qwen25,P941/toriko_tho_san_am_thuc-collectible-bia_1.jpg,Toriko Tho San Am Thuc,Toriko,6,A,A
+qwen25,P1005/asari_co_be_tinh_nghich_bia_vang-good-khac_1.jpg,Asari Co Be Tinh Nghich Bia Vang,ASARI,5,A,A
+qwen25,P1288/titeuf_bon_con_gai_that_chan_chet_zep_tr-pristine-gay_1.jpg,Titeuf Bon Con Gai That Chan Chet,Titeuf,6,A,A
+qwen25,P2229/rinne_canh_gioi_luan_hoi-good-bia_1.jpg,Rinne Canh Gioi Luan Hoi,Rinne,5,A,A
+qwen25,P2304/cong_chua_xu_hoa_tap_le_1_21-good-mep_1.jpg,Cong Chua Xu Hoa,XỨ HOA,5,A,A
+qwen35_745,P164/hinata_co_be_mang_linh_hon_ba_lao-good-bia_1.jpg,Hinata Co Be Mang Linh Hon Ba Lao,HINATA,6,A,A
+qwen35_745,P182/gto_onizuka-fair-bia_1.jpg,Gto Onizuka,GTO,3,A,A
+qwen35_745,P183/touch_deluxe_4_12-poor-bia_1.jpg,Touch Deluxe 4 12,TOUCH,5,A,A
+qwen35_745,P217/legend_truyen_thuyet_fushigi-good-khac_1.jpg,Legend Truyen Thuyet Fushigi,LEGEND,6,A,A
+qwen35_745,P353/wish_clamp-fair-khac_1.jpg,Wish Clamp,Wish,4,A,A
+qwen35_745,P385/cun_con_momo-fair-khac_2.jpg,Cun Con Momo,MOMO,4,A,A
+qwen35_745,P417/yugioh_r-good-khac_2.jpg,Yugioh R,Yu-Gi-Oh!,6,A,A
+qwen35_745,P447/7_ghost-fair-khac_1.jpg,7 Ghost,07-GHOST,6,A,A
+qwen35_745,P457/yuniko_chu_ngua_mot_sung-good-khac_1.jpg,Yuniko Chu Ngua Mot Sung,YUNIKO,6,A,A
+qwen35_745,P459/leo_chua_te_rung_xanh-good-khac_1.jpg,Leo Chua Te Rung Xanh,LEO,3,A,A
+qwen35_745,P469/lexa_truyen_thuyet_ve_nhung_dung_si-fair-bia_1.jpg,Lexa Truyen Thuyet Ve Nhung Dung Si,Lexa,4,A,A
+qwen35_745,P531/nhoc_bakeru-fair-bia_1.jpg,Nhoc Bakeru,Bakeru,6,A,A
+qwen35_745,P590/tieu_than_zenki-fair-khac_1.jpg,Tieu Than Zenki,ZENKI,5,A,A
+qwen35_745,P652/jojo_chang_trai_dung_cam-fair-khac_1.jpg,Jojo Chang Trai Dung Cam,JOJO,4,A,A
+qwen35_745,P654/hoang_tu_dan_doh-fair-khac_2.jpg,Hoang Tu Dan Doh,DAN DOH!!,6,A,A
+qwen35_745,P715/mix_cua_adachi-good-bia_1.jpg,Mix Cua Adachi,MIX,3,A,A
+qwen35_745,P728/nine_adachi_mitsuru-good-bia_1.jpg,Nine Adachi Mitsuru,Nine,4,A,A
+qwen35_745,P739/magi_me_cung_than_thoai-good-khac_2.jpg,Magi Me Cung Than Thoai,MAGI,4,A,A
+qwen35_745,P755/hikaru_ki_thu_co_vay-fair-bia_1.jpg,Hikaru Ki Thu Co Vay,HIKARU,6,A,A
+qwen35_745,P787/diem_de-fair-khac_1.jpg,Diem De,Điềm Đét,6,B,C
+qwen35_745,P794/h2_deluxe-good-bia_1.jpg,H2 Deluxe,H2,2,A,A
+qwen35_745,P801/chim_lua-fair-khac_1.jpg,Chim Lua,Chim lư,6,B,C
+qwen35_745,P839/candy_chi_em_gai-fair-khac_2.jpg,Candy Chi Em Gai,CANDY,5,A,A
+qwen35_745,P847/qed_dieu_phai_chung_minh-good-bia_1.jpg,Qed Dieu Phai Chung Minh,Q.E.D,3,A,A
+qwen35_745,P867/yugioh_vua_tro_choi-good-khac_2.jpg,Yugioh Vua Tro Choi,Yu-Gi-Oh!,6,A,A
+qwen35_745,P909/sakura_thu_linh_the_bai-fair-khac_1.jpg,Sakura Thu Linh The Bai,SAKURA,6,A,A
+qwen35_745,P941/toriko_tho_san_am_thuc-collectible-bia_1.jpg,Toriko Tho San Am Thuc,TORIKO,6,A,A
+qwen35_745,P993/khat_vong_vo_dich_genki-good-khac_1.jpg,Khat Vong Vo Dich Genki,GENKI,5,A,A
+qwen35_745,P1288/titeuf_bon_con_gai_that_chan_chet_zep_tr-pristine-gay_1.jpg,Titeuf Bon Con Gai That Chan Chet,Titeuf,6,A,A
+qwen35_745,P2229/rinne_canh_gioi_luan_hoi-good-bia_1.jpg,Rinne Canh Gioi Luan Hoi,Rinne,5,A,A
+qwen35_772,P164/hinata_co_be_mang_linh_hon_ba_lao-good-bia_1.jpg,Hinata Co Be Mang Linh Hon Ba Lao,Hinata,6,A,A
+qwen35_772,P182/gto_onizuka-fair-bia_1.jpg,Gto Onizuka,GTO,3,A,A
+qwen35_772,P183/touch_deluxe_4_12-poor-bia_1.jpg,Touch Deluxe 4 12,TOUCH,5,A,A
+qwen35_772,P217/legend_truyen_thuyet_fushigi-good-khac_1.jpg,Legend Truyen Thuyet Fushigi,LEGEND,6,A,A
+qwen35_772,P353/wish_clamp-fair-khac_1.jpg,Wish Clamp,Wish,4,A,A
+qwen35_772,P385/cun_con_momo-fair-khac_2.jpg,Cun Con Momo,MOMO,4,A,A
+qwen35_772,P417/yugioh_r-good-khac_2.jpg,Yugioh R,Yu-Gi-Oh!,6,A,A
+qwen35_772,P447/7_ghost-fair-khac_1.jpg,7 Ghost,07-GHOST,6,A,A
+qwen35_772,P457/yuniko_chu_ngua_mot_sung-good-khac_1.jpg,Yuniko Chu Ngua Mot Sung,YUNIKO,6,A,A
+qwen35_772,P459/leo_chua_te_rung_xanh-good-khac_1.jpg,Leo Chua Te Rung Xanh,LEO,3,A,A
+qwen35_772,P469/lexa_truyen_thuyet_ve_nhung_dung_si-fair-bia_1.jpg,Lexa Truyen Thuyet Ve Nhung Dung Si,Lexa,4,A,A
+qwen35_772,P531/nhoc_bakeru-fair-bia_1.jpg,Nhoc Bakeru,Bakeru,6,A,A
+qwen35_772,P590/tieu_than_zenki-fair-khac_1.jpg,Tieu Than Zenki,ZENKI,5,A,A
+qwen35_772,P652/jojo_chang_trai_dung_cam-fair-khac_1.jpg,Jojo Chang Trai Dung Cam,JOJO,4,A,A
+qwen35_772,P654/hoang_tu_dan_doh-fair-khac_2.jpg,Hoang Tu Dan Doh,DAN DOH!!,6,A,A
+qwen35_772,P715/mix_cua_adachi-good-bia_1.jpg,Mix Cua Adachi,MIX,3,A,A
+qwen35_772,P728/nine_adachi_mitsuru-good-bia_1.jpg,Nine Adachi Mitsuru,Nine,4,A,A
+qwen35_772,P739/magi_me_cung_than_thoai-good-khac_2.jpg,Magi Me Cung Than Thoai,MAGI,4,A,A
+qwen35_772,P787/diem_de-fair-khac_1.jpg,Diem De,Điềm Đét,6,B,C
+qwen35_772,P794/h2_deluxe-good-bia_1.jpg,H2 Deluxe,H2,2,A,A
+qwen35_772,P812/hajime_la_so_1-good-khac_2.jpg,Hajime La So 1,LA SO 1,5,B,A
+qwen35_772,P817/chim_canh_cut_ginji-fair-khac_2.jpg,Chim Canh Cut Ginji,Ginji,5,A,A
+qwen35_772,P847/qed_dieu_phai_chung_minh-good-bia_1.jpg,Qed Dieu Phai Chung Minh,Q.E.D.,3,A,A
+qwen35_772,P867/yugioh_vua_tro_choi-good-khac_2.jpg,Yugioh Vua Tro Choi,Yu-Gi-Oh!,6,A,A
+qwen35_772,P941/toriko_tho_san_am_thuc-collectible-bia_1.jpg,Toriko Tho San Am Thuc,TORIKO,6,A,A
+qwen35_772,P993/khat_vong_vo_dich_genki-good-khac_1.jpg,Khat Vong Vo Dich Genki,GENKI,5,A,A
+qwen35_772,P1288/titeuf_bon_con_gai_that_chan_chet_zep_tr-pristine-gay_1.jpg,Titeuf Bon Con Gai That Chan Chet,Titeuf,6,A,A
+qwen35_772,P2229/rinne_canh_gioi_luan_hoi-good-bia_1.jpg,Rinne Canh Gioi Luan Hoi,Rinne,5,A,A
